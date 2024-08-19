@@ -38,8 +38,7 @@ I'm a seasoned developer with expertise across multiple tech stacks and a strong
 
 ## 📫 Get in Touch
 
-- **Email:** michael.bahariawan@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/michael-bahariawan-42616b110
+- **Email:** michrockshooter@gmail.com
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
